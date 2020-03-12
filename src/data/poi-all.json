@@ -1,0 +1,290 @@
+[
+    {
+        "Id": "203310",
+        "Address": "隔河",
+        "Type_Name": "水位站",
+        "Type": "poi_site_water_leve",
+        "Lng": "102.825663",
+        "Lat": "24.376079"
+    },
+    {
+        "Id": "1001",
+        "Address": "抚仙湖",
+        "Type_Name": "水质站",
+        "Type": "poi_site_water_quality",
+        "Lng": "102.888482",
+        "Lat": "24.520597"
+    },
+    {
+        "Id": "1002",
+        "Address": "星云湖",
+        "Type_Name": "水质站",
+        "Type": "poi_site_water_quality",
+        "Lng": "102.784946",
+        "Lat": "24.338923"
+    },
+    {
+        "Id": "1003",
+        "Address": "杞麓湖",
+        "Type_Name": "水质站",
+        "Type": "poi_site_water_quality",
+        "Lng": "2.779749",
+        "Lat": "24.16549"
+    },
+    {
+        "Id": "1004",
+        "Address": "澄江县立昌",
+        "Type_Name": "视频监控",
+        "Type": "camera",
+        "Lng": "102.850197",
+        "Lat": "24.524099"
+    },
+    {
+        "Id": "1005",
+        "Address": "澄江县万海",
+        "Type_Name": "视频监控",
+        "Type": "camera",
+        "Lng": "102.880302",
+        "Lat": "24.634001"
+    },
+    {
+        "Id": "1006",
+        "Address": "澄江县气象站",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "2.5523",
+        "Lat": "24.4042"
+    },
+    {
+        "Id": "1007",
+        "Address": "路居",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "102.52",
+        "Lat": "24.21"
+    },
+    {
+        "Id": "1008",
+        "Address": "海口",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "102.5604",
+        "Lat": "24.3114"
+    },
+    {
+        "Id": "1009",
+        "Address": "龙潭村",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5052",
+        "Lat": "24.1847"
+    },
+    {
+        "Id": "1010",
+        "Address": "米汤水",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5306",
+        "Lat": "24.2012"
+    },
+    {
+        "Id": "1011",
+        "Address": "雷打石",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5359",
+        "Lat": "24.2333"
+    },
+    {
+        "Id": "1012",
+        "Address": "旧城",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.3811",
+        "Lat": "29.4844"
+    },
+    {
+        "Id": "1013",
+        "Address": "左所",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5235",
+        "Lat": "24.3947"
+    },
+    {
+        "Id": "1014",
+        "Address": "小白岩",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.4929",
+        "Lat": "24.313"
+    },
+    {
+        "Id": "1015",
+        "Address": "小洋村",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5425",
+        "Lat": "24.3916"
+    },
+    {
+        "Id": "1016",
+        "Address": "小团坡",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5821",
+        "Lat": "24.3845"
+    },
+    {
+        "Id": "1017",
+        "Address": "马场",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "103.0038",
+        "Lat": "24.3757"
+    },
+    {
+        "Id": "1018",
+        "Address": "东山",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5833",
+        "Lat": "24.4412"
+    },
+    {
+        "Id": "1019",
+        "Address": "黑土地",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5646",
+        "Lat": "24.4441"
+    },
+    {
+        "Id": "1020",
+        "Address": "牛摩",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5128",
+        "Lat": "24.2721"
+    },
+    {
+        "Id": "1021",
+        "Address": "大马沟",
+        "Type_Name": "雨量站",
+        "Type": "poi_site_rain",
+        "Lng": "102.5039",
+        "Lat": "24.2524"
+    },
+    {
+        "Id": "1022",
+        "Address": "海镜",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "102.5347",
+        "Lat": "24.2742"
+    },
+    {
+        "Id": "1023",
+        "Address": "大湾",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "102.5713",
+        "Lat": "24.353"
+    },
+    {
+        "Id": "1024",
+        "Address": "九村",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "102.5852",
+        "Lat": "24.4135"
+    },
+    {
+        "Id": "1025",
+        "Address": "右所",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "102.5431",
+        "Lat": "24.3805"
+    },
+    {
+        "Id": "1026",
+        "Address": "龙街",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "102.5355",
+        "Lat": "24.38"
+    },
+    {
+        "Id": "1027",
+        "Address": "明星",
+        "Type_Name": "气象站",
+        "Type": "poi_site_meteorological",
+        "Lng": "102.5152",
+        "Lat": "24.2836"
+    },
+    {
+        "Id": "1028",
+        "Address": "隔河",
+        "Type_Name": "水质站",
+        "Type": "poi_site_water_quality",
+        "Lng": "102.856529",
+        "Lat": "24.65251"
+    },
+    {
+        "Id": "1029",
+        "Address": "路居河",
+        "Type_Name": "水质站",
+        "Type": "poi_site_water_quality",
+        "Lng": "102.830527",
+        "Lat": "24.381773"
+    },
+    {
+        "Id": "1030",
+        "Address": "山冲河",
+        "Type_Name": "水质站",
+        "Type": "poi_site_water_quality",
+        "Lng": "102.856529",
+        "Lat": "24.65251"
+    },
+    {
+        "Id": "1031",
+        "Address": "东大河",
+        "Type_Name": "水质站",
+        "Type": "poi_site_water_quality",
+        "Lng": "102.932377",
+        "Lat": "24.671189"
+    },
+    {
+        "Id": "1032",
+        "Address": "梁王河",
+        "Type_Name": "水质站",
+        "Type": "poi_site_water_quality",
+        "Lng": "102.8938",
+        "Lat": "24.649427"
+    },
+    {
+        "Id": "1033",
+        "Address": "大前所地下",
+        "Type_Name": "水位站 ",
+        "Type": "poi_site_water_leve ",
+        "Lng": "102.909586",
+        "Lat": "24.663401"
+    },
+    {
+        "Id": "1034",
+        "Address": "抚仙湖水位监测站",
+        "Type_Name": "水位站 ",
+        "Type": "poi_site_water_leve ",
+        "Lng": "102.901359",
+        "Lat": "24.576144"
+    },
+    {
+        "Id": "1035",
+        "Address": "创新中心",
+        "Type_Name": "无人机 ",
+        "Type": "poi_uav",
+        "Lng": "102.872468",
+        "Lat": "24.629159"
+    }
+]

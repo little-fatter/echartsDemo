@@ -1,0 +1,7 @@
+[
+    {"id":"1001","district:":"抚仙湖", "name":"水质站", "object_type":"poi_site_water_quality", "coord":"102.798147,24.360095"},
+    {"id":"1002","district:":"星云湖", "name":"水质站", "object_type":"poi_site_water_quality", "coord":"102.916825,24.512556"},
+    {"id":"1003","district:":"杞麓湖", "name":"水质站", "object_type":"poi_site_water_quality", "coord":"102.799408,24.195092"},
+    {"id":"1004","district:":"澄江县立昌", "name":"高位监控", "object_type":"poi_camera", "coord":"102.850197,24.524099"},
+    {"id":"1005","district:":"澄江县万海", "name":"高普乐监控", "object_type":"poi_camera", "coord":"102.880302,24.634001"}
+]
